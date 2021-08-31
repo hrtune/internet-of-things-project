@@ -25,3 +25,8 @@ It should be permanently connected the household router in order to perform the 
  - An IR signal emitter
  - A temprature and humidity sensor module
 
+## Constraints
+ - On and off signal might be same as a fan toggles the on and off states.
+ - Similarly, changing the power of a fan might be done by the same signal.
+ - 5V power supply is needed.
+
