@@ -19,6 +19,9 @@ In the html page, a fan can be turned on or be changed the power manually.
 
 It should be permanently connected the household router in order to perform the web application.
 
+## How to use
+ - Set the module in order to 
+
 ## Components
  - A NodeMCU development board
     - A Wifi module which is pre-installed on the board
@@ -30,3 +33,4 @@ It should be permanently connected the household router in order to perform the 
  - Similarly, changing the power of a fan might be done by the same signal.
  - 5V power supply with MicroUSB is needed.
  - The number of analog inputs of the NodeMCU is only one.
+ - It can not learn the IR signal so it works with one specific model.
