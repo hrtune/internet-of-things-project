@@ -13,14 +13,17 @@ Otherwise, turn off for saving energy.
 The settings for the conditions can be configured via web server running on the module. For example,
 
  - Let a fan work in what hours?
- - How high the temperature or humidity is to turn on?
+ - How high is the temperature or humidity to turn on?
  
 In the html page, a fan can be turned on or be changed the power manually.
 
 It should be permanently connected the household router in order to perform the web application.
 
 ## How to use
- - Set the module in order to 
+ - Set the module so IR signals properly sent to the fan
+ - Plug a microUSB power supply into the module
+ - Set SSID and its password of the home router
+ - Modify configuration if needed.
 
 ## Components
  - A NodeMCU development board
